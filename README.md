@@ -1,44 +1,42 @@
-<!-- Encabezado con imagen -->
+
+<!-- Encabezado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=¡Hola!%20Soy%20Marco%20R.&fontSize=40&fontColor=fff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:8b0000&height=200&section=header&text=Marco%20Rosales&fontSize=45&fontColor=fff&animation=fadeIn" alt="Header" />
 </p>
 
 <!-- Presentación -->
 ## 👋 Sobre mí
-Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me gusta crear aplicaciones web, explorar nuevas herramientas y contribuir a proyectos de código abierto.
-
-- 🔭 Actualmente trabajando en: **ERP Ganadero con Node.js, Express y MongoDB**
-- 🌱 Aprendiendo: **Next.js, TailwindCSS y AWS**
-- 💬 Pregúntame sobre: **JavaScript, Node.js, SQL, MongoDB**
-- ⚡ Dato curioso: *Toco en una banda de rock 🎸 y amo programar de madrugada*
+<div align="center">
+<img src="https://i.imgur.com/sCvdrbf.png" width="150" style="border-radius: 50%; border: 3px solid #555;" alt="Foto de perfil">
+</div>
+Soy un desarrollador senior en HTML apasionado por la tecnología y el aprendizaje continuo. Me gusta crear aplicaciones web y explorar nuevas herramientas.
+Actualmente cursando la carrera de Ingeniería Informática *(solo hago hora en la uni)*
 
 ---
 
 ## 🚀 Tecnologías y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,nextjs,html,css,bootstrap,tailwind,mysql,mongodb,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,express,react,nodejs,linux,spring,php" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="streak"/>
-</p>
-
----
 
 ## 🌍 Conéctate conmigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mrysmrys21/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/marcorosalesreyes/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn">
+  </a>
 </p>
+
 
 ---
 
-<!-- Pie de página animado -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:8b0000&height=120&section=footer" alt="Footer" />
 </p>
+
